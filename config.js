@@ -20,19 +20,16 @@ protoType();
 global.moment = moment
 /*============= WAKTU =============*/
 global.owner = [
-	//	['6281234288573'],
-	['6282331033919'],
-	['212706611366'],
-	['6282256080304'],
-	['6282188376948', 'Riin', false]
+	['16199961931', 'Zivly', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.ram_usage = 600000000 // 600 MB in this example [Ram Limiter (if your server ram is 1GB put 900MB in bytes, later the server will auto restart before using 1GB ram)]
 global.packname = 'I ʜᴏᴘᴇ Yᴏᴜ\'ʀᴇ ғɪɴᴇ'
-global.author = '@x7||skizo'
-global.wm = '©xzn.wtf'
+global.author = '@ Zιѵℓʏ'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘F U R R Y - B O T˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm = '▧ Fʋrry BOT | © Zιѵℓʏ'
 global.no_wallet = ''
 global.nomorown = '0'
 global.xznkey = 'YOURKEY' // chat atmin buat dapetin apikeynya
